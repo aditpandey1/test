@@ -116,5 +116,6 @@
     } */
     .cardContainer{
         width: 90%;
+        padding-left: 0px;
     }
 }
